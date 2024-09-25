@@ -1,0 +1,17 @@
+Generate {num_questions} questions related to {topic} with answer.
+
+Output in JSON format without ```json.
+
+Example:
+{
+    "questions": [
+        {
+            "question_text": "q1",
+            "answer": "q1 answer"
+        },
+        {
+            "question_text": "q2"
+            "answer": "q2 answer"
+        }
+    ]
+}
